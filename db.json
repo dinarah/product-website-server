@@ -1,0 +1,46 @@
+{
+    "sweet_girls": [
+        {
+            "id": 1,
+            "sweet_name": "Maryam",
+            "age": 3 
+        },
+        {
+            "id": 2,
+            "sweet_name": "Dina",
+            "age": 29
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "hey dude",
+            "author": "Terminator"
+        },
+        {
+            "id": 2,
+            "title": "halo",
+            "author": "Pizza"
+        },
+        {
+            "id": 3,
+            "title": "hey",
+            "author": "Dina"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        },
+        {
+            "id": 2,
+            "body": "some tes test",
+            "postId": 3
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}

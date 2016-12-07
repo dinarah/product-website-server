@@ -1,0 +1,7 @@
+{
+  "name": "product-website-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "json-server": "^0.9.3"
+  }
+}
